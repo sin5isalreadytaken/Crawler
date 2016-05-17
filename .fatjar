@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Nov 26 16:16:18 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\yuanhang1617\\Desktop\\NewBeThreadCrawler.jar
+manifest.mergeall=true
+manifest.mainclass=MyCrawler
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=<inc|ThreadCrawler/image>
